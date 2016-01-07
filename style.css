@@ -1,0 +1,22 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.links{
+    text-align:center;
+}
+
+.jumbotron{
+    text-align:center;
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.projects{
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.projects h1{
+    text-align:center;
+}
