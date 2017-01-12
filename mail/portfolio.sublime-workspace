@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"f7882f"
+			],
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jsenar/projects/jsenar.github.io/index.html",
+			"settings":
+			{
+				"buffer_size": 14315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jsenar/projects/jsenar.github.io/css/freelancer.css",
+			"settings":
+			{
+				"buffer_size": 10225,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jsenar/projects/jsenar.github.io/README.md",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jsenar/projects/jsenar.github.io",
+		"/Users/jsenar/projects/jsenar.github.io/css",
+		"/Users/jsenar/projects/jsenar.github.io/img",
+		"/Users/jsenar/projects/jsenar.github.io/js",
+		"/Users/jsenar/projects/jsenar.github.io/mail",
+		"/Users/jsenar/projects/jsenar.github.io/vendor"
+	],
+	"file_history":
+	[
+		"/Users/jsenar/projects/jsenar.github.io/mail/contact_me.php",
+		"/Users/jsenar/projects/jsenar.github.io/vendor/font-awesome/css/font-awesome.css",
+		"/Users/jsenar/projects/jsenar.github.io/CNAME",
+		"/Users/jsenar/projects/cena-fork/.gitignore",
+		"/Users/jsenar/projects/cena-fork/app/assets/javascripts/calendar.js.erb",
+		"/Users/jsenar/projects/recess/popup.js",
+		"/Users/jsenar/projects/recess/popup.html",
+		"/Users/jsenar/projects/recess/manifest.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lato",
+			"li ",
+			"li",
+			"hr",
+			"monte",
+			"color",
+			">\n",
+			"modal",
+			"6b7",
+			"dcc",
+			"18bc9c",
+			"backgroun",
+			"hr ",
+			"hr",
+			"work experience",
+			"work ex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jsenar/projects/jsenar.github.io/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2350,
+								2350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jsenar/projects/jsenar.github.io/css/freelancer.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8517,
+								8517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jsenar/projects/jsenar.github.io/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css/freelancer.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
